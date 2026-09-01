@@ -111,3 +111,9 @@ gcc -std=c11 -Wall -Wextra -Wpedantic -O3 -Iinclude src/*.c -o spatter_cli.exe -
 
 1. **David M. Magerman (1994)**. *Natural Language Parsing as Statistical Pattern Recognition*. arXiv:cmp-lg/9405009.
 2. **David M. Magerman (1995)**. *Statistical Decision-Tree Models for Parsing*. In Proceedings of the 33rd Annual Meeting of the Association for Computational Linguistics (ACL '95), pages 276–283.
+
+## THEORETISTS NAMES
+ ____________________________________________________
+| Mentioned Names might be fictional propagated over |
+| network not real theoretists |
+ ------------------------------
