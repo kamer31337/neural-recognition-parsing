@@ -1,7 +1,7 @@
 # SPATTER: Natural Language Parsing as Statistical Pattern Recognition
 
 An ISO C11 pure functional implementation of David M. Magerman's seminal statistical decision-tree parser:
-> **David M. Magerman (1994 / 1995)**: *"Natural Language Parsing as Statistical Pattern Recognition"* (arXiv:cmp-lg/9405009 / ACL 1995 Proceedings).
+**David M. Magerman (1994 / 1995)**: *"Natural Language Parsing as Statistical Pattern Recognition"* 
 
 ---
 
